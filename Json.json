@@ -1,0 +1,100 @@
+Json
+
+Java
+Script
+Object
+Notation
+
+
+array[0]
+
+
+[{  id: 1,
+    title: 'Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops',
+    price: 109.95, 
+    description: 'Your perfect pack for everyday use and walks in th…to 15 inches) in the padded sleeve, your everyday', 
+    category: "men's clothing",
+    ejemplo: {
+    caracteristica1: "ejemplo",
+    caract2: "ejemplo2"
+    },
+    Ubicacion: {
+        calle: "falsa",
+        numero: 123,
+        Localidad: "springfield",
+        nivelGeo:
+        {
+            latitud:1123123,
+            longitud: 123123            
+        }
+    }
+},
+{   id: 2,
+    title: 'Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops',
+    price: 109.95, 
+    description: 'Your perfect pack for everyday use and walks in th…to 15 inches) in the padded sleeve, your everyday', 
+    category: "men's clothing",
+    ejemplo: {
+    caracteristica1: "ejemplo",
+    caract2: "ejemplo2"
+    },
+    Ubicacion: {
+        calle: "falsa",
+        numero: 123,
+        Localidad: "springfield",
+        nivelGeo:
+        {
+            latitud:1123123,
+            longitud: 123123            
+        }
+    }
+},
+{   id: 3,
+    title: 'Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops',
+    price: 109.95, 
+    description: 'Your perfect pack for everyday use and walks in th…to 15 inches) in the padded sleeve, your everyday', 
+    category: "men's clothing",
+    ejemplo: {
+    caracteristica1: "ejemplo",
+    caract2: "ejemplo2"
+    },
+    Ubicacion: {
+        calle: "falsa",
+        numero: 123,
+        Localidad: "springfield",
+        nivelGeo:
+        {
+            latitud:1123123,
+            longitud: 123123            
+        }
+    }
+}
+]
+[1, "Fjallraven - Foldstack", 109.95, "Your prefect pack", "men's clothing"]
+
+
+
+
+Document
+Object
+Model
+
+Browser
+Object
+Model
+
+
+Metodos HTTP
+
+/*
+GET: Para obtener información
+
+POST: Crear nuevos registros
+
+PUT: Editar el objeto completo
+
+DELETE: Eliminar un elemento
+
+PATCH: Editar parcialmente un objeto
+
+*/
